@@ -1,0 +1,7 @@
+Positive Test Scenario:
+-The month must be February
+-The day can be a number from 1 to 28 or (1 to 29 i.e. in leap year)
+
+Negative Test Scenario:
+-The month cannot be other than February
+-The day cannot exceed 28 and (29 in leap year)
